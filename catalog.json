@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "headtrack",
+      "name": "ヘッドトラッキング",
+      "description": "頭の向きと位置を TrackIR に対応したゲームへ渡し、視点を動かします（Windows）。",
+      "version": "2.0.0",
+      "minApp": "1.7.0",
+      "permissions": [
+        "pose",
+        "trackir"
+      ],
+      "url": "packages/headtrack-2.0.0.json",
+      "sha256": "ab32e779bf55dce6c7905795d47492d44f27e0409eb761404698f8c253aaca58",
+      "sig": "BnPyfKvJl3+by7xR48coJUOzfbrso5HP9/xZV6PHX/QMxOUOoL3WHWHT2eMFiUoc34h+lHWiU7Dbufol3uJ5Bg=="
+    }
+  ]
+}
