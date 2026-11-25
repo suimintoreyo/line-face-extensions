@@ -5,7 +5,7 @@
       "id": "comments",
       "name": "配信コメント",
       "description": "YouTube と Twitch の配信コメントを小さい窓や OBS に出し、VOICEVOX で読み上げます。",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "minApp": "1.9.0",
       "permissions": [
         "net",
@@ -13,9 +13,9 @@
         "voicevox",
         "obsStatus"
       ],
-      "url": "packages/comments-1.2.1.json",
-      "sha256": "cddff953969da765bad0ed8f8de6587f8840a52a53971c124e78e37513cd1dac",
-      "sig": "lT6Wt89MMm1XJK5t8hhBmQX5HNsxBIy9PjL/TkALkQ61eterP4o/jf6qY18IiWYlbOVh6HcNXmjfRii5Ut15Ag=="
+      "url": "packages/comments-1.2.2.json",
+      "sha256": "20a5047602f0b7c7300b70afe822564ec08fb53eae14d49f9665f42209e92616",
+      "sig": "ALdxs0ePoG1PWIWhrjZSGfsvVOREa8UrMwgNPCpDrV5NNW4LuFE3dg2x7cW9BRgNrSxuWlUdgs4N0XqzntKRAw=="
     },
     {
       "id": "headtrack",
