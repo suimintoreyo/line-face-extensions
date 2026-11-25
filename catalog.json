@@ -35,14 +35,14 @@
       "id": "obsctl",
       "name": "配信コントロール",
       "description": "OBS の配信と録画を操作し、シーンや音を切り替えます。",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "minApp": "1.9.0",
       "permissions": [
         "obs"
       ],
-      "url": "packages/obsctl-1.0.1.json",
-      "sha256": "716bdf4319a9195cb0a7de8f74413be056ad91c0f0e3bc4cd0e1f32b5b165b84",
-      "sig": "sgeptLoj2No9Fy/I/LVnW6YO3wylAyMsnlpKDFZ8a2STN59X5dzjPpLy6aAqBqDamZy3R0hU7Y3pg3ceDGSJDg=="
+      "url": "packages/obsctl-1.0.2.json",
+      "sha256": "5363d911edb110f4b1162382228a6753917b3d54b5e30177988faf68e8561a49",
+      "sig": "xEdLajtwYyvsPFLDRU0r3/8lh6JWrGv3suVOpZvK6GBLBwGU0S/4AF4jtsk5oZh+VLKGnDVh8ZYcRyv6vzblBg=="
     }
   ]
 }
