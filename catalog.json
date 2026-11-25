@@ -5,16 +5,17 @@
       "id": "comments",
       "name": "配信コメント",
       "description": "YouTube と Twitch の配信コメントを小さい窓や OBS に出し、VOICEVOX で読み上げます。",
-      "version": "1.1.0",
-      "minApp": "1.8.0",
+      "version": "1.2.0",
+      "minApp": "1.9.0",
       "permissions": [
         "net",
         "overlay",
-        "voicevox"
+        "voicevox",
+        "obsStatus"
       ],
-      "url": "packages/comments-1.1.0.json",
-      "sha256": "69e8fe8b521727c16f179ee7de434d355341871dddc422064130c5b6c6496c5f",
-      "sig": "Gou6lT6+gQiWVLOLMbDEv/LFe/UDshpKmVWoXI0uqtPo2b5UhoXQpFzfYnKJET1beO7fTVvKnbbX1kF9ZO8uAg=="
+      "url": "packages/comments-1.2.0.json",
+      "sha256": "38a3d27b7d2ca97893fb9d6aade80b3c320658a1ab46035777a0797f70371998",
+      "sig": "YFMCGz1rMYuF4oxZXw77+fKtmNcxET9oJj8ygkkyy5zTlevOByEfuCP20MDNzyJmLDBnUdkPUDvk/VjAyjGoDg=="
     },
     {
       "id": "headtrack",
@@ -29,6 +30,19 @@
       "url": "packages/headtrack-2.0.0.json",
       "sha256": "ab32e779bf55dce6c7905795d47492d44f27e0409eb761404698f8c253aaca58",
       "sig": "BnPyfKvJl3+by7xR48coJUOzfbrso5HP9/xZV6PHX/QMxOUOoL3WHWHT2eMFiUoc34h+lHWiU7Dbufol3uJ5Bg=="
+    },
+    {
+      "id": "obsctl",
+      "name": "配信コントロール",
+      "description": "OBS の配信と録画を操作し、シーンや音を切り替えます。",
+      "version": "1.0.0",
+      "minApp": "1.9.0",
+      "permissions": [
+        "obs"
+      ],
+      "url": "packages/obsctl-1.0.0.json",
+      "sha256": "10f5ffbe8470520f68d87bcbaf9c3c9e33e5094cef823c56f1c6d8f4201522df",
+      "sig": "dHhJKnYFEPwuoi3NQ38uw9O3VRe7QQ6pmCygr5Os6zCqqUo5CZE/d/Mz/7mFsDJ8g4j+DHGyglQ3GSj30QDLBA=="
     }
   ]
 }
