@@ -5,7 +5,7 @@
       "id": "comments",
       "name": "配信コメント",
       "description": "YouTube と Twitch の配信コメントを小さい窓や OBS に出し、VOICEVOX で読み上げます。",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "minApp": "1.9.0",
       "permissions": [
         "net",
@@ -13,36 +13,36 @@
         "voicevox",
         "obsStatus"
       ],
-      "url": "packages/comments-1.2.0.json",
-      "sha256": "38a3d27b7d2ca97893fb9d6aade80b3c320658a1ab46035777a0797f70371998",
-      "sig": "YFMCGz1rMYuF4oxZXw77+fKtmNcxET9oJj8ygkkyy5zTlevOByEfuCP20MDNzyJmLDBnUdkPUDvk/VjAyjGoDg=="
+      "url": "packages/comments-1.2.1.json",
+      "sha256": "cddff953969da765bad0ed8f8de6587f8840a52a53971c124e78e37513cd1dac",
+      "sig": "lT6Wt89MMm1XJK5t8hhBmQX5HNsxBIy9PjL/TkALkQ61eterP4o/jf6qY18IiWYlbOVh6HcNXmjfRii5Ut15Ag=="
     },
     {
       "id": "headtrack",
       "name": "ヘッドトラッキング",
       "description": "頭の向きと位置を TrackIR に対応したゲームへ渡し、視点を動かします（Windows）。",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "minApp": "1.7.0",
       "permissions": [
         "pose",
         "trackir"
       ],
-      "url": "packages/headtrack-2.0.0.json",
-      "sha256": "ab32e779bf55dce6c7905795d47492d44f27e0409eb761404698f8c253aaca58",
-      "sig": "BnPyfKvJl3+by7xR48coJUOzfbrso5HP9/xZV6PHX/QMxOUOoL3WHWHT2eMFiUoc34h+lHWiU7Dbufol3uJ5Bg=="
+      "url": "packages/headtrack-2.0.1.json",
+      "sha256": "3c63a0458a282660479e1ccca13adb6571bafc58b33fcee1b092c96c63b10483",
+      "sig": "T8hkqT5E1RR4BnAfEUgBJEftwwJkFrmed9XzJ63LebUAO/cTVXu+iXmY1Ouwo4fk0ajQ+LgkHSVXMQj4PLnXBw=="
     },
     {
       "id": "obsctl",
       "name": "配信コントロール",
       "description": "OBS の配信と録画を操作し、シーンや音を切り替えます。",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "minApp": "1.9.0",
       "permissions": [
         "obs"
       ],
-      "url": "packages/obsctl-1.0.0.json",
-      "sha256": "10f5ffbe8470520f68d87bcbaf9c3c9e33e5094cef823c56f1c6d8f4201522df",
-      "sig": "dHhJKnYFEPwuoi3NQ38uw9O3VRe7QQ6pmCygr5Os6zCqqUo5CZE/d/Mz/7mFsDJ8g4j+DHGyglQ3GSj30QDLBA=="
+      "url": "packages/obsctl-1.0.1.json",
+      "sha256": "716bdf4319a9195cb0a7de8f74413be056ad91c0f0e3bc4cd0e1f32b5b165b84",
+      "sig": "sgeptLoj2No9Fy/I/LVnW6YO3wylAyMsnlpKDFZ8a2STN59X5dzjPpLy6aAqBqDamZy3R0hU7Y3pg3ceDGSJDg=="
     }
   ]
 }
