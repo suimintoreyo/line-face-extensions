@@ -3,19 +3,19 @@
   "items": [
     {
       "id": "comments",
-      "name": "配信コメント",
-      "description": "YouTube と Twitch の配信コメントを小さい窓や OBS に出し、VOICEVOX で読み上げます。",
-      "version": "1.3.0",
-      "minApp": "1.10.0",
+      "name": "配信モニター",
+      "description": "YouTube と Twitch のコメントと、いま見ている人の数・出入りをまとめて見られます。コメントは小さい窓や OBS に出し、VOICEVOX で読み上げます。",
+      "version": "1.4.0",
+      "minApp": "1.11.0",
       "permissions": [
         "net",
         "overlay",
         "voicevox",
         "obsStatus"
       ],
-      "url": "packages/comments-1.3.0.json",
-      "sha256": "4ccdd7ebe0272b2d9e8067e15bdcb7272113d9e2a8a2d10e913b50361d659ea1",
-      "sig": "xOzCUcq5W3QGuLAeHFbcCmPNx1+FgYdV2h1qzZRVPNQPCo/bDj6u88OkejVEY9oINCZ9k8s8l8QC/A3wg1lyDQ=="
+      "url": "packages/comments-1.4.0.json",
+      "sha256": "170aaf4f6dfa067089b4f6f4cff331d8f4f1610d4d13f17c47bd8dce98bb11c4",
+      "sig": "qrmS/vWi4TKi7UzZmMuycoedxTk22KkWjX8vbnqXazY4f1UPuA7082dZtUVj1laIfVR3o0IrpSHD76lsgWbtCQ=="
     },
     {
       "id": "headtrack",
