@@ -5,17 +5,18 @@
       "id": "comments",
       "name": "配信モニター",
       "description": "YouTube と Twitch のコメントと、いま見ている人の数・出入りをまとめて見られます。コメントは小さい窓や OBS に出し、VOICEVOX で読み上げます。",
-      "version": "1.4.1",
-      "minApp": "1.11.0",
+      "version": "1.5.0",
+      "minApp": "1.12.0",
       "permissions": [
         "net",
         "overlay",
         "voicevox",
-        "obsStatus"
+        "obsStatus",
+        "monitorApp"
       ],
-      "url": "packages/comments-1.4.1.json",
-      "sha256": "7c9214ca3f56760585f1572f1d007877aa725beff254e1ebc84fc60c617100b4",
-      "sig": "j4ZvC7JOVH2Fq5P6lLkWuSyHxqhAyQO4q1+jPLj9O2XyHxlS+dfV4TBz3EPqt/X9kI4EyjQGLFZORqMTOlfUBw=="
+      "url": "packages/comments-1.5.0.json",
+      "sha256": "e72846ced41a24357c06229e673e41c2746c02c998865c711b06b7de94a8695a",
+      "sig": "2jln2wOvBjIUtkN4yxJZX4Ww92ONV+0rN+WKVswLeQTIc0v+kiBMPFOUJnNK9Rd2QnHRAxmECb73cKI5fuDSCg=="
     },
     {
       "id": "headtrack",
